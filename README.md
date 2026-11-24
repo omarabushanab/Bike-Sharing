@@ -3,7 +3,7 @@
 An interactive Streamlit app that analyses the UCI **Bike Sharing Dataset** (`hour.csv`): 17,379 hourly
 records of Capital Bikeshare rentals in Washington D.C. during 2011–2012.
 
-**Live app:** https://YOUR-APP.streamlit.app  <!-- replace after deploying -->
+**Live app:** https://abushanab1.streamlit.app/  
 **Data source:** https://archive.ics.uci.edu/dataset/275/bike+sharing+dataset
 
 ## What the app shows
