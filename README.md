@@ -22,12 +22,6 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-## Deploy on Streamlit Community Cloud
-
-1. Push this folder to a **public** GitHub repository.
-2. Go to https://share.streamlit.io, choose **Create app**, select the repo, branch `main`, and main file `app.py`.
-3. Deploy, then paste the resulting `https://<your-app>.streamlit.app` link at the top of this README.
-
 ## Files
 
 | File | Purpose |
